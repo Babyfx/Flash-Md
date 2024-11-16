@@ -1,5 +1,5 @@
 {
-  "name": "FLASH-MD",
+  "name": "Favor-MD",
   "description": "An easy and simple WhatsApp bot developed by France King",
   "keywords": ["bot", "node", "baileys", "whatsapp"],
   "logo": "https://files.catbox.moe/nqgz89.jpg",
@@ -50,7 +50,7 @@
     },
     "TIME_ZONE": {
       "description": "Specify your country's time zone (e.g., 'Africa/Nairobi'). This ensures that bot activities follow your local time.",
-      "value": "Africa/Nairobi",
+      "value": "Africa/kampala",
       "required": false
     },
     "ANTICALL": {
@@ -73,17 +73,17 @@
     },
     "SESSION_ID": {
       "description": "Place your unique FLASH MD session ID here. This is required for the bot to function.",
-      "value": "",
+      "value": "FLASH-MD-WA-BOT;;;=>eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQ0xUUGtNTmVXeGlSRXJRT0E0TUxER1VpN21zUkN2RjA0Nmt6UWNGNm5sZz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiNmNOT0J5NWpiV1BMQnBMdzRXaFZkNVNtWG1DandnY0RmR1hHMmtKUUZnND0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJRQjFPbGx0RlpaNEt3K0wxNXYrODhTSDlWMGo4bEVVbE84VjVONE14Nm5VPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiIvKzZESWVJTUtFZTd4dTFOcUFES3RXSzhnWDY3TWNxWG5qdEMxZFUzMkRZPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkNOY0VMcXFPczNyMkVhVjZWUWpnTTlEQ2FKTmVMRjR2Y2ppaFRGQVJOSEE9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IlhiS0dWVEhpOVNHN3hpNXhnd283RGJzNytUUC9pajFCNGREUHl0OWRmR0U9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQ01aeGthalFnSzFPaENWL2hlcENTMXZOV1ZJd2hMLzEvTE5INXJFaUEzQT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoidERpenpjTis3SHJKUDFXRmtURE5hYU5qMWM1L05zSHlodzZSdFZicFhoZz0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkovUnk5WFUzb2JrbEZ6MWJ0aWVmN1AvTjNDZ1hIWC9DaHZmaEdHS1NqZEV2djVqbHBQTzJGaTBBelhISXdKMVVUa0NTWWpTdjZacXc5cmFPK2Izc2hRPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MTQ5LCJhZHZTZWNyZXRLZXkiOiJLd1BwT2FUMlRPL0lSSGZ4ZjIwUWlBS0g1ay84aXUzUkkxeTRtbjBRWEJRPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W10sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjowLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwiZGV2aWNlSWQiOiJOU1M5S0hxclJzeU9XRVRtU29WWnJRIiwicGhvbmVJZCI6ImMzZWNkNTZiLWM5ODktNGRiZi04MmZjLTY0ZGVmYmI1YzA2MiIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiIxaUJMQlB0RDBIbXBCNDAzTmxYM0JvNFlTNGc9In0sInJlZ2lzdGVyZWQiOnRydWUsImJhY2t1cFRva2VuIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiMlIyd2NPam5WdzFnTUpIZkF1VFN1a2RKZmYwPSJ9LCJyZWdpc3RyYXRpb24iOnt9LCJwYWlyaW5nQ29kZSI6IjQ1RE1FOVJTIiwibWUiOnsiaWQiOiIyNTY3NjEzOTYzMDk6NjBAcy53aGF0c2FwcC5uZXQiLCJuYW1lIjoiQkFCWUZYIn0sImFjY291bnQiOnsiZGV0YWlscyI6IkNQKzZpOVVGRU83RTQ3a0dHQUVnQUNnQSIsImFjY291bnRTaWduYXR1cmVLZXkiOiJXVkxmSHhsQTZBNnZuVTVjcnZTcGxzRys5eGwzb1lHdkQrNlQzVFQrbmpvPSIsImFjY291bnRTaWduYXR1cmUiOiI3NUxrTDlzdURCTUVNMlNKRWtrZTBMWmR3RDQzYUxzZGVIQVdXSTkrRUNTQ2txait0K1pPT1o5N0Z2cHlhTUNNdERzNHBLak1sN1k0RGxnM2UwVlRDUT09IiwiZGV2aWNlU2lnbmF0dXJlIjoiQlkzQmdJVzZhMmVDZUNMNTJ0NnczcnZweVVlN0lkbS9pN29EbXFsKzNaVlgrcDQ1aEErTzlvWFVLWEpYczF5RWc4RGd4ejIvZ1kxMENmNytiRkRlaXc9PSJ9LCJzaWduYWxJZGVudGl0aWVzIjpbeyJpZGVudGlmaWVyIjp7Im5hbWUiOiIyNTY3NjEzOTYzMDk6NjBAcy53aGF0c2FwcC5uZXQiLCJkZXZpY2VJZCI6MH0sImlkZW50aWZpZXJLZXkiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJCVmxTM3g4WlFPZ09yNTFPWEs3MHFaYkJ2dmNaZDZHQnJ3L3VrOTAwL3A0NiJ9fV0sInBsYXRmb3JtIjoic21iYSIsImxhc3RBY2NvdW50U3luY1RpbWVzdGFtcCI6MTczMTc4MTI0NSwibXlBcHBTdGF0ZUtleUlkIjoiQUFBQUFNcWEifQ==",
       "required": true
     },
     "OWNER_NAME": {
       "description": "Enter the name of the bot owner. This name will be displayed when required.",
-      "value": "France King",
+      "value": "Babyfx",
       "required": false
     },
     "OWNER_NUMBER": {
       "description": "Enter your phone number without the '+' sign. Use your country code (e.g., '254' for Kenya).",
-      "value": "254751284190",
+      "value": "256761396309",
       "required": false
     },
     "WARN_COUNT": {
